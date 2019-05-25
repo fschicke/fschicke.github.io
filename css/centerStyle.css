@@ -3,12 +3,12 @@
   display: flex;
   justify-content: center;
   height: 585px;
-  overflow: hidden;
+  overflow: visible;
 }
 .sales-block {
   background-color: antiquewhite;
-  height: 100%;
-  width: 43%;
-  margin: 2%;
+  height: 585px;
+  width: 450px;
+  margin: 17px;
   float: left;
 }
