@@ -11,4 +11,24 @@
   width: 450px;
   margin: 17px;
   float: left;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
 }
+.item-info {
+  width: 100%;
+  height: 425px;
+}
+.shikyeh-img {
+  background-image: url('../img/shikyeh2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.yakshik-img {
+  background-image: url('../img/yakshik1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+/* Add a @media where the blocks can go up and down */
