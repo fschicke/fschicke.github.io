@@ -1,0 +1,14 @@
+.main {
+  margin-top: 115px;
+  display: flex;
+  justify-content: center;
+  height: 585px;
+  overflow: hidden;
+}
+.sales-block {
+  background-color: antiquewhite;
+  height: 100%;
+  width: 43%;
+  margin: 2%;
+  float: left;
+}
