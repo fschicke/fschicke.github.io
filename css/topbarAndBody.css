@@ -1,5 +1,5 @@
 /* top bar css code start */
-@media (max-width : 320px) {
+@media (max-width : 400px) {
   .navbar span {
     display: none;
   }
