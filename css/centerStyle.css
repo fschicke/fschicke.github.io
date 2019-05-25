@@ -19,14 +19,20 @@
   width: 100%;
   height: 425px;
 }
-.shikyeh-img {
+.shikyeh-background {
   background-image: url('../img/shikyeh2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
-.yakshik-img {
+.yakshik-background {
   background-image: url('../img/yakshik1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.mahkuelee-background {
+  background-image: url('../img/shikyeh2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
