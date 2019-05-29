@@ -37,4 +37,8 @@
   background-repeat: no-repeat;
   background-position: center center;
 }
+.item-info i {
+  float: right;
+  margin: 8px;
+}
 /* Add a @media where the blocks can go up and down */
