@@ -1,3 +1,7 @@
+@font-face { 
+  font-family: Dotum; 
+  src: url('css/Dotum.ttc'); 
+} 
 .main {
   margin-top: 115px;
   display: flex;
@@ -40,5 +44,22 @@
 .item-info i {
   float: right;
   margin: 8px;
+}
+.item-info p{
+  font-family: "돋움", "Dotum", tahoma;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+}
+.item-info .text-box{
+  margin-top: 0px;
+  height: 40px;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px;
+  background-color: antiquewhite;
+  border-color: black;
 }
 /* Add a @media where the blocks can go up and down */
